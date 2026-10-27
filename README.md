@@ -26,12 +26,6 @@ A responsive PHP + MySQL e-commerce demo built with HTML, CSS and vanilla JavaSc
 ## Database
 The SQL file creates `ecommerce_db`, `products`, and `users`, then inserts sample products.
 
-## Before submitting
-- Replace or improve sample product data and images if desired.
-- Test registration, login, product search and cart.
-- Push all project files to a GitHub repository.
-- Submit the repository URL to your task portal.
-
 ## Important limitations
 This is a learning/demo project. Checkout does not charge money, create a persistent order, or arrange delivery. For a production store, add CSRF protection, order persistence, payment provider integration, inventory validation, HTTPS, rate limiting and security review. Never commit real credentials to GitHub.
 
